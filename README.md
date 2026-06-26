@@ -122,7 +122,7 @@ Each student record contains:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+gh repo clone vincent-silveira/Student-Management-System
 ```
 
 ### 2. Configure MySQL
